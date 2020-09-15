@@ -26,7 +26,7 @@
         <build-plugin.gpg.version>1.6</build-plugin.gpg.version>
         <build-plugin.asciidoctor.version>1.5.3</build-plugin.asciidoctor.version>
         <build-plugin.exec.version>1.4.0</build-plugin.exec.version>
-        <build-plugin.git-commit-id.version>2.2.1</build-plugin.git-commit-id.version>
+        <build-plugin.git-commit-id.version>4.0.2</build-plugin.git-commit-id.version>
     </properties>
     <modules>
         <module>spring-boot-admin-server</module>
