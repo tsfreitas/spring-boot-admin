@@ -21,7 +21,7 @@
         <spring-boot.version>1.5.4.RELEASE</spring-boot.version>
         <spring-cloud.version>Dalston.SR1</spring-cloud.version>
         <hystrix-dashboard.version>1.5.5</hystrix-dashboard.version>
-        <build-plugin.jacoco.version>0.7.7.201606060606</build-plugin.jacoco.version>
+        <build-plugin.jacoco.version>0.8.6</build-plugin.jacoco.version>
         <build-plugin.coveralls.version>4.2.0</build-plugin.coveralls.version>
         <build-plugin.gpg.version>1.6</build-plugin.gpg.version>
         <build-plugin.asciidoctor.version>1.5.3</build-plugin.asciidoctor.version>
